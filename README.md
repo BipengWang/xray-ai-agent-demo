@@ -56,7 +56,7 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
-### Set environment variables
+### 4. Set environment variables
 Create .env:
 ```bash
 OPENAI_API_KEY=your_key_here
