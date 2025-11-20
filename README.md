@@ -69,3 +69,5 @@ uvicorn backend.main:app --reload
 ```bash
 http://127.0.0.1:8000
 ```
+### 7. Run analysis
+The example xRay data is provided, feel free to test the function with it.
