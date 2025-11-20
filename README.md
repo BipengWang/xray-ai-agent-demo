@@ -30,12 +30,12 @@ This demo implements an AI assistant for X-ray spectroscopy using:
 ---
 
 ## 🛠 Tech Stack
-- Python 3.10+
+- Python 3.11+
 - FastAPI
 - OpenAI SDK
 - Pinecone
 - NumPy / SciPy
-- Frontend: HTML + JS + Plotly
+- Frontend: HTML + JS
 
 ---
 
