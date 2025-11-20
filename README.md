@@ -46,26 +46,27 @@ This demo implements an AI assistant for X-ray spectroscopy using:
 ```bash
 git clone https://github.com/YOURNAME/xray-ai-agent-demo.git
 cd xray-ai-agent-demo
-
+```
 ### 2. Create virtual environment
 ```bash
 python3 -m venv venv
 source venv/bin/activate
-
+```
 ### 3. Install dependencies
 ```bash
 pip install -r requirements.txt
-
+```
 ### Set environment variables
 Create .env:
 ```bash
 OPENAI_API_KEY=your_key_here
 PINECONE_API_KEY=your_key_here
-
+```
 ### 5. Start backend
 ```bash
 uvicorn backend.main:app --reload
-
+```
 ### 6. Open frontend
 ```bash
 http://127.0.0.1:8000
+```
