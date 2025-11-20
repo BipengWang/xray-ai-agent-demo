@@ -1,6 +1,3 @@
-## Requirements
-- Python 3.11+
-
 # X-ray AI Agent Demo  
 FastAPI + Pinecone RAG + Spectral Analysis
 
@@ -43,6 +40,8 @@ This demo implements an AI assistant for X-ray spectroscopy using:
 ---
 
 ## 🏁 Run Locally
+### Requirements
+- Python 3.11+
 
 ### 1. Clone
 ```bash
