@@ -1,3 +1,6 @@
+## Requirements
+- Python 3.10+
+
 # X-ray AI Agent Demo  
 FastAPI + Pinecone RAG + Spectral Analysis
 
