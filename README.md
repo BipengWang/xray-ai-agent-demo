@@ -1,5 +1,5 @@
 # X-ray AI Agent Demo  
-FastAPI + LangChain-ready + Pinecone RAG + Spectral Analysis
+FastAPI + Pinecone RAG + Spectral Analysis
 
 This demo implements an AI assistant for X-ray spectroscopy using:
 - FastAPI backend
@@ -35,7 +35,6 @@ This demo implements an AI assistant for X-ray spectroscopy using:
 - OpenAI SDK
 - Pinecone
 - NumPy / SciPy
-- LangChain-ready architecture
 - Frontend: HTML + JS + Plotly
 
 ---
