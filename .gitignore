@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+venv/
+.env.*
+*.env
+
+# Node / JS
+node_modules/
+
+# FastAPI uploads
+uploads/
+
+# OS files
+.DS_Store
+
+# HuggingFace cache
+.cache/
+huggingface/
+hf_cache/
+

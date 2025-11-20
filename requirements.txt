@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic
+pandas
+numpy
+scipy
+matplotlib
+openai
+sentence-transformers
+faiss-cpu
