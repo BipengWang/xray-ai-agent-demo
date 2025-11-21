@@ -50,8 +50,8 @@ cd xray-ai-agent-demo
 ```
 ### 2. Create virtual environment
 ```bash
-python3 -m venv venv
-source venv/bin/activate
+conda create --name myenv python=3.11
+conda activate myenv
 ```
 ### 3. Install dependencies
 ```bash
