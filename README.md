@@ -45,7 +45,7 @@ This demo implements an AI assistant for X-ray spectroscopy using:
 
 ### 1. Clone
 ```bash
-git clone https://github.com/YOURNAME/xray-ai-agent-demo.git
+git clone https://github.com/BipengWang/xray-ai-agent-demo.git
 cd xray-ai-agent-demo
 ```
 ### 2. Create virtual environment
