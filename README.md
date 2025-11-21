@@ -67,9 +67,13 @@ PINECONE_API_KEY=your_key_here
 ```bash
 uvicorn backend.main:app --reload
 ```
-### 6. Open frontend
+### 6. Start frontend
 ```bash
-http://127.0.0.1:8000
+python3 -m http.server 5500
 ```
-### 7. Run analysis
+### 7. Open frontend
+```bash
+http://127.0.0.1:5500
+```
+### 8. Run analysis
 The example xRay data is provided, feel free to test the function with it.
